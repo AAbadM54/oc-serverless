@@ -8,3 +8,5 @@ This repo is for all resources for the webinar https://www.crowdcast.io/e/operat
   - URL: https://oc-ophub.mybluemix.net/
   - Key: oslab
 
+## Survey
+Tell us what you think of the workshop and what would you like to see next: https://www.surveymonkey.com/r/H7SZXWH 
